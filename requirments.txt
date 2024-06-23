@@ -1,0 +1,4 @@
+transformers
+pytesseract
+pymupdf
+tf-keras
